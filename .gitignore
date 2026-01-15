@@ -1,12 +1,12 @@
-# Python
+
 __pycache__/
 *.pyc
 
-# Virtual environment
+
 aircanvas-env/
 venv/
 .env/
 
-# OS
+
 .DS_Store
 Thumbs.db
